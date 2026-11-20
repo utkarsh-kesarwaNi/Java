@@ -13,17 +13,6 @@ A comprehensive learning repository covering core concepts, advanced topics, and
 
 ### **[Generics](src/com/uk/generic/Aquarium.java)**
 - **[What are Generics in java ?](src/com/uk/generic/Aquarium.java)**
-
-### **[Low level design]()**
-- **[What is Low level design ?](src/com/uk/lld/LowLevelDesign.java)**
-- **[What is single responsibility principle ?](src/com/uk/lld/solid/Employee.java)**
-- **[What is Open/Closed Principle ?](src/com/uk/lld/solid/CheckoutService.java)**
-- **[Liskov Substitution Principle](src/com/uk/lld/solid/BankAccount.java)**
-- **[Interface Segregation Principle](src/com/uk/lld/solid/MultiFunctionDevice.java)**
-- **[Dependency Inversion Principle](src/com/uk/lld/solid/OrderService.java)**
-- ### **[Design Patterns](src/com/uk/lld/designpatterns/DesignPatterns.java)**
-- **[Strategy design pattern](src/com/uk/lld/designpatterns/strategy/PaymentStrategy.java)**
-- **[Observer design pattern](src/com/uk/lld/designpatterns/observer/ObserverDesignPattern.java)**
 ---
 
 ## Contributing
